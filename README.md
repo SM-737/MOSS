@@ -43,7 +43,7 @@ If you want to run this application locally on your workstation instead of via t
 1. **Clone the repository:**
    ```bash
    git clone https://github.com
-   cd moss-dashboard
+   cd moss
    ```
 
 2. **Establish and activate an isolated virtual environment:**
